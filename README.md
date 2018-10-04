@@ -4,6 +4,7 @@ Arduino core for IOTEAM boards
 
 ## v1.1.0 21-OCT-2017 Release
 - Dustino board
+- MKR680 Board
 
 
 ---
